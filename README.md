@@ -39,10 +39,6 @@ in CMD:
 2) python -m venv .venv
 3) .venv\Scripts\activate.bat
 4) python -m pip install -r requirements.txt
-
- install:
-
-5) Graphviz from here:  https://graphviz.org/download/
-
+5) install Graphviz from here:  https://graphviz.org/download/
 6) cd..
 7) python -m wirewizard_gui.app
